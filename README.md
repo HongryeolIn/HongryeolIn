@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phbzti924)](https://solved.ac/phbzti924/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbzti924)](https://github.com/phbzti924/)
 <!--
 **HongryeolIn/HongryeolIn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
